@@ -1,3 +1,3 @@
 # Official_cuts
-Landing page para una barberia especifica
+Landing page para una barberia especifica\n
 Eso es todo
